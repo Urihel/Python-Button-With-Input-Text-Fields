@@ -8,8 +8,8 @@ def myClick():
     #Since python is super flexiable and an OOPs language you can 
     #pass an argument inside of Label() called text which allows 
     #to create some text inside that label. great thing about the text
-    #argument is that you can concatinate strings with built in functions
-    #like .get() which retrieves the text that you enter into our Entry() function 
+    #argument is that you can concatinate strings with built in functions like in OOPs
+    #so in this case .get() which retrieves the text that you enter into our Entry() function 
     #so our input text fields. 
     
     
