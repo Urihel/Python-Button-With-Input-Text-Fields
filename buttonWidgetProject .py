@@ -13,7 +13,7 @@ def myClick():
     #so our input text fields. In the code below i have 2 examples one using fstring and another 
     #using concatination. the reason i chose to use fstring is becuase since we are talking OOPs
     #why not see if fstring also works as a value for the text argument. Yes you can use fstring
-    #a value and write the same way i did with code below that is commented out. 
+    #as a value and and have it do the same thing with the code that is not commented out. 
     
     
     #you can also use variables inside your click button function
