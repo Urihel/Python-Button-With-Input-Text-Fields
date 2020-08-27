@@ -1,3 +1,5 @@
+#thanks codemy and freeCodeCamp.org for this awesome code on how to use tkinter.
+
 from tkinter import *
 
 root = Tk()
